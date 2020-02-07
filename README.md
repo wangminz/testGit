@@ -7,5 +7,6 @@
 xxxx
 
 ## 演示
-
-![图片](D:\gitTest\testGit\image\timg.jpg)
+readme.md和image同级,   所以写成**[image/timg.jpg]**图片也要打包上传
+也可以用**[../image/xx.png]**表示，但是**..**父目录需要被git管理
+![图片](image/timg.jpg)
